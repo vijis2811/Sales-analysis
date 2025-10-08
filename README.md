@@ -35,18 +35,21 @@ Power BI – for advanced visualizations and interactivity.
 Data Source: Raw coffee sales CSV with fields like date, coffee_name, money, cash_type.
 
 *Repository Structure
+
 coffee-sales-analysis
 data─coffee_sales.csv
 excel dashboard─coffee_sales_excel.xlsx
 powerbi dashboard─ coffee_sales.pbix
 README.md-(Project description & insights)
 
-*How to Use:
+*How to Use
+
 Open the Excel file to explore Pivot Tables & Charts.
 Open the Power BI file to interact with the dashboard.
 Use slicers/filters to analyze by month, coffee type, and payment mode.
 
-*Future Improvements:
+*Future Improvements
+
 Automating data updates with Power Query.
 Adding customer segmentation analysis.
 Forecasting monthly sales using Python or Power BI analytics.
