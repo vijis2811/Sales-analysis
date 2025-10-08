@@ -1,4 +1,4 @@
-Coffee Sales Analysis Dashboard
+COFFEE SALES ANALYSIS DASHBOARD
 
 This project analyzes coffee shop sales data to uncover key trends in customer behavior, payment preferences, and product performance.
 The analysis was done in Excel (Pivot Tables & Pivot Charts) and Power BI to create interactive dashboards for visual insights.
@@ -36,15 +36,15 @@ Data Source: Raw coffee sales CSV with fields like date, coffee_name, money, cas
 
 *Repository Structure
 
-coffee-sales-analysis
+-coffee-sales-analysis
 
-data─coffee_sales.csv
+-data─coffee_sales.csv
 
-excel dashboard─coffee_sales_excel.xlsx
+-excel dashboard─coffee_sales_excel.xlsx
 
-powerbi dashboard─ coffee_sales.pbix
+-powerbi dashboard─ coffee_sales.pbix
 
-README.md-(Project description & insights)
+-README.md-(Project description & insights)
 
 *How to Use
 
