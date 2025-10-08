@@ -37,9 +37,13 @@ Data Source: Raw coffee sales CSV with fields like date, coffee_name, money, cas
 *Repository Structure
 
 coffee-sales-analysis
+
 data─coffee_sales.csv
+
 excel dashboard─coffee_sales_excel.xlsx
+
 powerbi dashboard─ coffee_sales.pbix
+
 README.md-(Project description & insights)
 
 *How to Use
