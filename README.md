@@ -30,8 +30,8 @@ Certain coffee types (like Cortado and Espresso) have lower sales and could bene
 
 *Tools Used
 
-Excel – for Pivot Tables, Pivot Charts, Slicers, and Data Cleaning.
-Power BI – for advanced visualizations and interactivity.
+Excel for Pivot Tables, Pivot Charts, Slicers, and Data Cleaning.
+Power BI for advanced visualizations and interactivity.
 Data Source: Raw coffee sales CSV with fields like date, coffee_name, money, cash_type.
 
 *Repository Structure
