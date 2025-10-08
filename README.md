@@ -21,7 +21,7 @@ Sales by Payment Mode
 Top Performing Coffee Products
 Allows filtering by Payment Method and Coffee Type for dynamic exploration.
 
-* Insights
+*Insights
 
 Card payments dominate over cash transactions, showing a preference for digital payments.
 Cappuccino and Hot Chocolate are among the top contributors to overall revenue.
@@ -41,12 +41,12 @@ excel dashboard─coffee_sales_excel.xlsx
 powerbi dashboard─ coffee_sales.pbix
 README.md-(Project description & insights)
 
-*How to Use
+*How to Use:
 Open the Excel file to explore Pivot Tables & Charts.
 Open the Power BI file to interact with the dashboard.
 Use slicers/filters to analyze by month, coffee type, and payment mode.
 
-*Future Improvements
+*Future Improvements:
 Automating data updates with Power Query.
 Adding customer segmentation analysis.
 Forecasting monthly sales using Python or Power BI analytics.
